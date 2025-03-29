@@ -13,6 +13,7 @@ This bot provides automated trading functionalities for Paradex and Backpack, in
 
 ## 📱 LINKS
 **ASK Question/Buy** [link](https://t.me/web3_sftrw)
+
 **Telegram CHANNEL** [link](https://t.me/web3sftwr)
 
 ## ⚙️ Functionalities
