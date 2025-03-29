@@ -1,7 +1,7 @@
 # 📌 Paradex & Backpack & Hyperliquid Volume Farming Bot [**Windows/MacOS**]
 
 ![Bot Interface](https://github.com/Dropsoft-soft/paradex-backpack/blob/main/Screenshot%202025-03-29%20at%2021.19.53.png)
-##**Telegram CHANNEL** ![link](https://t.me/web3sftwr)
+**Telegram CHANNEL** [link](https://t.me/web3sftwr)
 
 This bot provides automated trading functionalities for Paradex and Backpack, including volume farming, position management, and account checks.
 
@@ -11,7 +11,8 @@ This bot provides automated trading functionalities for Paradex and Backpack, in
 |------|----------|-------|
 | **Basic** | No hedging, no volume limits | **$300** |
 | **Premium** | Hedging with Hyper and BackPack, no volume limits | **$500** |
-##**ASK Question/Buy** ![link](https://t.me/web3_sftrw)
+
+**ASK Question/Buy** [link](https://t.me/web3_sftrw)
 
 ## ⚙️ Functionalities
 
